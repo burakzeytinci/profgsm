@@ -5,7 +5,6 @@ export * from "./navbar";
 export * from "./project-card";
 export * from "./service-item";
 export * from "./service-card";
-export * from "./scroll-to-top";
 export * from "./hero";
 export * from "./about";
 export * from "./contact-form";

@@ -4,7 +4,6 @@
 import "./globals.css";
 import { Roboto } from "next/font/google";
 import { ThemeProvider } from "@material-tailwind/react";
-import { ScrollToTop } from "@/components/scroll-to-top";
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -35,7 +34,6 @@ export default function RootLayout({
         <ThemeProvider>
           <div className="relative">
             {children}
-            <ScrollToTop />
           </div>
         </ThemeProvider>
       </body>
