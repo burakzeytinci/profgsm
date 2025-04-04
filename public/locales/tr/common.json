@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetlerimiz",
+    "technical": "Teknik Servis",
+    "team": "Ekibimiz",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "ProfGSM Bilişim Teknik Servis Hizmetleri",
+    "description": "İstanbul'da profesyonel bilgisayar ve telefon teknik servis hizmetleri sunuyoruz. Ayrıca 2. el cihaz alım satımı da yapıyoruz. Müşteri memnuniyeti bizim için her şeyden önemlidir.",
+    "callUs": "Bize ulaşın",
+    "phoneButton": "0212 513 15 67",
+    "whatsappButton": "WhatsApp'tan Ulaşın",
+    "workHours": "Çalışma Saatlerimiz: Hafta içi 09:00 - 19:00, Cumartesi 10:00 - 18:00"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "description": "ProfGSM Bilişim olarak bilgisayar ve telefon tamir hizmetlerinin yanı sıra ikinci el cihaz alım satımı da yapıyoruz. Profesyonel ekibimizle hızlı ve güvenilir hizmet sunuyoruz."
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "description": "ProfGSM Bilişim olarak bilgisayar, telefon ve tablet cihazlarınız için kapsamlı teknik servis hizmetleri sunuyoruz. Profesyonel ekibimizle her türlü teknik sorunu çözüyoruz.",
+    "computerRepair": "Laptop ve Bilgisayar Tamiri",
+    "computerRepairDesc": "Donanım ve yazılım sorunlarınızı çözüyor, parça değişimi ve bakım işlemlerini profesyonel olarak gerçekleştiriyoruz.",
+    "iphoneRepair": "iPhone Tamiri",
+    "iphoneRepairDesc": "iPhone cihazlarınızın ekran, batarya, anakart, hoparlör ve diğer parça değişimlerini uzman ekibimizle yapıyoruz.",
+    "secondHand": "İkinci El Alım Satım",
+    "secondHandDesc": "İkinci el laptop, bilgisayar, telefon ve tablet alım satımı yapıyor, en yüksek fiyat garantisi sunuyoruz.",
+    "dataRecovery": "Veri Kurtarma",
+    "dataRecoveryDesc": "Arızalı cihazlardan veri kurtarma işlemleri yapıyor, önemli verilerinizi güvenle yedekliyoruz.",
+    "softwareInstall": "Yazılım Yükleme",
+    "softwareInstallDesc": "İşletim sistemi kurulumu, yazılım güncellemeleri ve sürücü yüklemeleri yapıyoruz.",
+    "tabletRepair": "iPad ve Tablet Tamiri",
+    "tabletRepairDesc": "Tablet cihazlarınızın her türlü teknik sorunu için hızlı ve etkili çözümler sunuyoruz.",
+    "partUpgrade": "Parça Yükseltme",
+    "partUpgradeDesc": "Bilgisayarınızın performansını artırmak için RAM, SSD, CPU ve ekran kartı yükseltmeleri yapıyoruz.",
+    "screenReplacement": "Telefon Ekran Değişimi",
+    "screenReplacementDesc": "Tüm marka ve model cep telefonlarının ekran değişimlerini orijinal parçalarla yapıyoruz."
+  },
+  "technicalService": {
+    "title": "Teknik Servis Hizmetlerimiz",
+    "description": "ProfGSM Bilişim olarak bilgisayar, telefon ve tablet cihazlarınız için profesyonel teknik servis hizmeti sunuyoruz. Uzman ekibimizle cihazlarınızın sorunlarını hızlı ve güvenilir şekilde çözüyoruz.",
+    "laptopRepair": "Laptop ve Masaüstü Bilgisayar Tamiri",
+    "laptopRepairDesc": "Donanım ve yazılım sorunları, parça değişimi ve performans optimizasyonu. Geniş yedek parça stoğumuz ve deneyimli teknisyenlerimizle bilgisayarınızdaki tüm sorunları çözüyoruz.",
+    "iphoneRepair": "iPhone Tamiri",
+    "iphoneRepairDesc": "Ekran, batarya, anakart, kamera değişimi ve veri kurtarma işlemleri profesyonel ekibimiz tarafından yapılmaktadır. Apple sertifikalı teknisyenlerimiz cihazınızdaki sorunları kısa sürede çözüme kavuşturur.",
+    "secondHand": "İkinci El Laptop ve Telefon Alım Satımı",
+    "secondHandDesc": "En yüksek fiyat garantisi ile ikinci el cihazlarınızı alıyoruz. Ayrıca garantili ikinci el cihazları uygun fiyatlarla edinebilirsiniz. Tüm cihazlar kontrolden geçirilir ve garantili olarak satılır.",
+    "tabletRepair": "iPad ve Tablet Tamiri",
+    "tabletRepairDesc": "Ekran, batarya ve anakart değişimi gibi işlemler için özel ekipmanlarımız ve eğitimli teknisyenlerimizle tablet cihazlarınızdaki sorunları hızlıca çözüyoruz.",
+    "partUpgrade": "Parça Değişimi ve Yükseltme",
+    "partUpgradeDesc": "RAM, SSD, HDD, ekran kartı değişimi ve sistem yükseltme işlemleri gerçekleştiriyoruz. Cihazınızın performansını artıracak en uygun çözümler için profesyonel tavsiyeler sunuyoruz."
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "description": "ProfGSM Bilişim olarak deneyimli teknisyen kadromuzla hizmet vermekteyiz. Uzman ekibimiz cihazlarınızdaki sorunları kalıcı olarak çözmek için burada."
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Teknik servis ihtiyacınız mı var? ProfGSM Bilişim ekibi olarak her türlü bilgisayar ve telefon sorununuzda yanınızdayız."
+  },
+  "footer": {
+    "company": "ProfGSM Bilişim",
+    "phone": "+90 212 513 15 67",
+    "email": "info@profgsm.com",
+    "address": "Hamidiye Caddesi Doğubank İş Merkezi Kat 2 No:221, Istanbul, Turkey",
+    "quickLinks": "Hızlı Linkler",
+    "workHours": "Çalışma Saatleri",
+    "weekdays": "Hafta içi: 09:00 - 19:00",
+    "saturday": "Cumartesi: 10:00 - 18:00",
+    "sunday": "Pazar: Kapalıyız",
+    "callNow": "Hemen Arayın",
+    "whatsapp": "WhatsApp'tan Ulaşın",
+    "allRightsReserved": "Tüm Hakları Saklıdır"
+  },
+  "lang": {
+    "tr": "Türkçe",
+    "en": "İngilizce",
+    "ar": "Arapça",
+    "switch": "Dil Değiştir"
+  },
+  "seo": {
+    "title": "ProfGSM Bilişim - Profesyonel Bilgisayar ve Telefon Teknik Servis Hizmetleri",
+    "description": "İstanbul'da bilgisayar, telefon ve tablet tamir hizmetleri. Parça değişimi, veri kurtarma ve ikinci el cihaz alım satımı yapıyoruz."
+  }
+} 

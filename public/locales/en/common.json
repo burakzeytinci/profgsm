@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "technical": "Technical Service",
+    "team": "Our Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "ProfGSM IT Technical Service",
+    "description": "We offer professional computer and phone technical service in Istanbul. We also buy and sell second-hand devices. Customer satisfaction is our top priority.",
+    "callUs": "Contact us",
+    "phoneButton": "0212 513 15 67",
+    "whatsappButton": "Contact via WhatsApp",
+    "workHours": "Working Hours: Weekdays 09:00 - 19:00, Saturday 10:00 - 18:00"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "At ProfGSM IT, we provide computer and phone repair services as well as second-hand device buying and selling. We offer fast and reliable service with our professional team."
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "At ProfGSM IT, we provide comprehensive technical service for your computers, phones, and tablets. We solve all technical problems with our professional team.",
+    "computerRepair": "Laptop and Computer Repair",
+    "computerRepairDesc": "We solve your hardware and software problems, professionally perform part replacement and maintenance operations.",
+    "iphoneRepair": "iPhone Repair",
+    "iphoneRepairDesc": "We perform screen, battery, motherboard, speaker, and other part replacements on your iPhone devices with our expert team.",
+    "secondHand": "Second-Hand Buy & Sell",
+    "secondHandDesc": "We buy and sell second-hand laptops, computers, phones, and tablets, and offer the highest price guarantee.",
+    "dataRecovery": "Data Recovery",
+    "dataRecoveryDesc": "We perform data recovery operations from damaged devices and safely back up your important data.",
+    "softwareInstall": "Software Installation",
+    "softwareInstallDesc": "We install operating systems, update software, and install drivers.",
+    "tabletRepair": "iPad and Tablet Repair",
+    "tabletRepairDesc": "We provide fast and effective solutions for all technical problems of your tablet devices.",
+    "partUpgrade": "Part Upgrade",
+    "partUpgradeDesc": "We upgrade RAM, SSD, CPU, and graphics cards to improve your computer's performance.",
+    "screenReplacement": "Phone Screen Replacement",
+    "screenReplacementDesc": "We replace screens of all brands and models of mobile phones with original parts."
+  },
+  "technicalService": {
+    "title": "Technical Service",
+    "description": "At ProfGSM IT, we provide professional technical service for your computers, phones, and tablets. We solve your device problems quickly and reliably with our expert team.",
+    "laptopRepair": "Laptop and Desktop Computer Repair",
+    "laptopRepairDesc": "Hardware and software problems, part replacement, and performance optimization. We solve all problems in your computer with our extensive spare parts inventory and experienced technicians.",
+    "iphoneRepair": "iPhone Repair",
+    "iphoneRepairDesc": "Screen, battery, motherboard, camera replacement, and data recovery operations are performed by our professional team. Our Apple-certified technicians will quickly solve the problems with your device.",
+    "secondHand": "Second-Hand Laptop and Phone Buy & Sell",
+    "secondHandDesc": "We buy your second-hand devices with the highest price guarantee. You can also purchase guaranteed second-hand devices at affordable prices. All devices are checked and sold with a warranty.",
+    "tabletRepair": "iPad and Tablet Repair",
+    "tabletRepairDesc": "We quickly solve problems with your tablet devices with our special equipment and trained technicians for operations such as screen, battery, and motherboard replacement.",
+    "partUpgrade": "Part Replacement and Upgrade",
+    "partUpgradeDesc": "We perform RAM, SSD, HDD, graphics card replacement, and system upgrade operations. We offer professional advice for the most suitable solutions to improve your device's performance."
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "At ProfGSM IT, we provide service with our experienced technician staff. Our expert team is here to permanently solve problems with your devices."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Need technical service? ProfGSM IT team is with you for all your computer and phone problems."
+  },
+  "footer": {
+    "company": "ProfGSM IT",
+    "phone": "+90 212 513 15 67",
+    "email": "info@profgsm.com",
+    "address": "Hamidiye Street, Dogubank Business Center Floor 2 No:221, Istanbul, Turkey",
+    "quickLinks": "Quick Links",
+    "workHours": "Working Hours",
+    "weekdays": "Weekdays: 09:00 - 19:00",
+    "saturday": "Saturday: 10:00 - 18:00",
+    "sunday": "Sunday: Closed",
+    "callNow": "Call Now",
+    "whatsapp": "Contact via WhatsApp",
+    "allRightsReserved": "All Rights Reserved"
+  },
+  "lang": {
+    "tr": "Turkish",
+    "en": "English",
+    "ar": "Arabic",
+    "switch": "Change Language"
+  },
+  "seo": {
+    "title": "ProfGSM IT - Professional Computer and Phone Technical Service",
+    "description": "Computer, phone, and tablet repair services in Istanbul. We provide part replacement, data recovery, and second-hand device buying and selling."
+  }
+} 
